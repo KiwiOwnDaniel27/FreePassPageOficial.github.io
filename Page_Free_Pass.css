@@ -75,6 +75,11 @@ section img:hover{
     text-align: center;
 }
 
+.categorias{
+    align-items: center;
+    justify-content: center;
+}
+
 .categ{
     display: inline-flex;
     text-align: center;
