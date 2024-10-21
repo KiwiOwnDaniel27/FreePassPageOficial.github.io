@@ -72,10 +72,12 @@ section img:hover{
 
 .public{
     margin-left: 20px;
+    text-align: center;
 }
 
 .categ{
     display: inline-flex;
+    text-align: center;
 }
 
 .contacto{
