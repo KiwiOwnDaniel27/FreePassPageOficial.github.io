@@ -88,13 +88,19 @@ section img:hover{
 }
 
 .categorias{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
     align-items: center;
     justify-content: center;
 }
 
 .categ{
-    display: inline-flex;
+    margin-left: 20px;
     text-align: center;
+    display: inline-block;
 }
 
 .contacto{
