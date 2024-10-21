@@ -87,20 +87,17 @@ section img:hover{
     text-align: center;
 }
 
-.categorias{
+.categoria{
     display: inline-flex;
     align-items: center;
     justify-content: center;
     margin-left: 50px;
     margin-right: 50px;
-    align-items: center;
-    justify-content: center;
 }
 
 .categ{
-    margin-left: 20px;
+    margin-left: 1px;
     text-align: center;
-    display: inline-block;
 }
 
 .contacto{
