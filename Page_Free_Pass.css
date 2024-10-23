@@ -53,10 +53,11 @@ span{
 
 .photo{
     display: flex;
-    width: 1000px;
+    width: 100%;
     height: 400px;
-    margin-left: 75px;
+    margin-left: 0px;
     padding-top: 200px;
+    margin-right: 0px;
 }
 
 .photo.img{
@@ -83,7 +84,7 @@ section img:hover{
 }
 
 .public{
-    margin-left: 20px;
+    margin-left: 5px;
     text-align: center;
 }
 
@@ -91,8 +92,6 @@ section img:hover{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 .categ{
@@ -181,4 +180,14 @@ footer a:hover {
     filter: drop-shadow(0px 7px 21px #ffffff);
     animation: rotar 5s linear infinite;
     margin-left: 0px;
+}
+
+.inicio{
+    margin-top: -355px;
+    margin-right: 140px;
+}
+
+
+.insta{
+    margin-top: -120px;
 }
