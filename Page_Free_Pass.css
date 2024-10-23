@@ -91,12 +91,13 @@ section img:hover{
 .categoria{
     display: inline-flex;
     align-items: center;
-    justify-content: center;
+    width: 100%;
 }
 
 .categ{
     margin-left: 1px;
     text-align: center;
+    width: 100%;
 }
 
 .contacto{
