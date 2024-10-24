@@ -87,6 +87,7 @@ section img:hover{
 .public{
     margin-left: 5px;
     text-align: center;
+    color: white;
 }
 
 .categoria{
@@ -197,5 +198,6 @@ footer a:hover {
 }
 
 a{
-    font-size: 25px;
+    font-size: 23px;
+    color: black;
 }
